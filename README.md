@@ -8,4 +8,4 @@
 
 #https://lstackh.github.io/ProfessionalWebsite/
 
-#Video with project running: https://lut-my.sharepoint.com/:v:/g/personal/lukas_honka_student_lut_fi/Ee-16BtF7NFAqoi_s3DMEVsBdcEHbiW3bFrqK5uZW4Klzw?e=GApssF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+#Video with project running: https://lut-my.sharepoint.com/:v:/g/personal/lukas_honka_student_lut_fi/EbFjIaaQz3JKg2Z09aQ9tgMBFYfNcyXgJpvE48Th_DEF0w?e=6OQxSk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
