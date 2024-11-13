@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Growth App</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="../images/logo.png" alt="logo">
+                </a>
+            </div>
+
+            <div class="main-menu">
+                <ul>
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About us</a>
+                    </li>
+                    <li>
+                        <a href="blog.html">Blog</a>
+                    </li>
+                    <li>
+                        <a class="btn" href="login.html">
+                            <i class="fas fa-user"></i> Log in
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <button id="hamburger-button" class="hamburger-button">
+                <div class="hamburger-line"></div>
+                <div class="hamburger-line"></div>
+                <div class="hamburger-line"></div>
+            </button>
+            <div class="mobile-menu">
+                <ul>
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About us</a>
+                    </li>
+                    <li>
+                        <a href="blog.html">Blog</a>
+                    </li>
+                    <li>
+                        <a class="btn" href="login.html">
+                            <i class="fas fa-user"></i> Log in
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Login Section -->
+    <section class="login-section">
+        <div class="container-sm">
+            <div class="login-container">
+                <h2 class="text-xl">Login to Your Account</h2>
+                <form class="login-form">
+                    <div class="input-group">
+                        <label for="username" class="text-md">Username</label>
+                        <input type="text" id="username" name="username" placeholder="Enter your username" required>
+                    </div>
+                    <div class="input-group">
+                        <label for="password" class="text-md">Password</label>
+                        <input type="password" id="password" name="password" placeholder="Enter your password" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block">Log In</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer bg-black">
+        <div class="container">
+            <div class="footer-grid">
+                <div>
+                    <a href="index.html">
+                        <img src="../images/logo-white.png" alt="logo">
+                    </a>
+                    <div class="card">
+                        <h4>Subscribe to Newsletter</h4>
+                        <p class="text-sm">
+                            Subscribe now to receive tips on how to take your business to the next level.
+                        </p>
+                        <form>
+                            <input type="email" placeholder="Enter your email">
+                            <button type="submit" class="btn btn-primary btn-block">
+                                Subscribe
+                            </button>
+                        </form>
+                    </div>
+                    <i class="fab fa-linkedin"></i>
+                    <i class="fab fa-twitter"></i>
+                </div>
+                <div>
+                    <h4>Company</h4>
+                    <ul>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="index.html">Home Page</a></li>
+                        <li><a href="login.html">Login</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>Contact</h4>
+                    <ul>
+                        <li>
+                            <a href="#">hello@growthapp.com</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+</html>
